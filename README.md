@@ -1,1 +1,1 @@
-!(world.png)
+![](world.png)
